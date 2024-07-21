@@ -8,12 +8,12 @@ Aspiring DevOps and Cloud professional with expertise in cloud technologies(AWS 
 - **GitHub**: https://github.com/saisunny07
 - **Resume Url**: https://github.com/saisunny07/Profile
 
-EDUCATION
+## EDUCATION
 University of Louisiana at Lafayette                                                                           Jan 2023 – Dec 2024
 Master in Computer Science GPA: 4.0/4.0
 * Relevant Courses: Distributed Cloud Computing, Network Security, Operating Systems, Database Management Systems, Design and Analysis of Algorithms.
 
-SKILLS
+## SKILLS
 * Cloud Platforms: AWS, Azure Database Management: SQL
 * Containerization & Orchestration: Docker, Kubernetes Programming Languages: Python, Java
 * Infrastructure as Code: Terraform, Ansible Scripting: Shell scripting
@@ -21,7 +21,7 @@ SKILLS
 * Monitoring & Logging: Prometheus, Grafana Operating Systems: Linux, Windows
 * Other Tools: SonarQube, Maven
 
-PROJECTS
+## PROJECTS
 01. AWS Cloud Cost Optimization.
 02. Automated Cloud Resource Optimization and Governance.
 03. Streamlining CI/CD with Dockerized Jenkins Pipeline.
