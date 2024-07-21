@@ -3,10 +3,10 @@ Aspiring DevOps and Cloud professional with expertise in cloud technologies(AWS 
 
 ## Contact
 
-- **Email**: kothurisaisunny5@gmail.com
-- **LinkedIn**: https://linkedin.com/in/sai-sunny-kothuri-292833256
-- **GitHub**: https://github.com/saisunny07
-- **Resume Url**: https://github.com/saisunny07/Profile
+  **Email**: kothurisaisunny5@gmail.com
+  **LinkedIn**: https://linkedin.com/in/sai-sunny-kothuri-292833256
+  **GitHub**: https://github.com/saisunny07
+  **Resume Url**: https://github.com/saisunny07/Profile
 
 ## EDUCATION
 University of Louisiana at Lafayette                                                                           Jan 2023 – Dec 2024
@@ -20,6 +20,11 @@ Master in Computer Science GPA: 4.0/4.0
 * Version Control: Git, AWS codecommit CI/CD: Jenkins, GitHub Actions
 * Monitoring & Logging: Prometheus, Grafana Operating Systems: Linux, Windows
 * Other Tools: SonarQube, Maven
+
+## Github Repositories
+* Docker_Projects - https://github.com/saisunny07/Docker_Projects
+* Synchronization_solutions - https://github.com/saisunny07/Synchronization_solutions
+
 
 ## PROJECTS
 01. AWS Cloud Cost Optimization.
