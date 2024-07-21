@@ -23,8 +23,10 @@ Master in Computer Science GPA: 4.0/4.0
 
 ## Github Repositories
 * Docker_Projects - https://github.com/saisunny07/Docker_Projects
-* Synchronization_solutions - https://github.com/saisunny07/Synchronization_solutions
+- This repository contains all my docker images
 
+* Synchronization_solutions - https://github.com/saisunny07/Synchronization_solutions
+- This repository contains all my Java projects
 
 ## PROJECTS
 01. AWS Cloud Cost Optimization.
