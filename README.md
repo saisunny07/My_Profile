@@ -4,9 +4,9 @@ Aspiring DevOps and Cloud professional with expertise in cloud technologies(AWS 
 ## Contact
 
 - **Email**: kothurisaisunny5@gmail.com
-- **LinkedIn**: linkedin.com/in/sai-sunny-kothuri-292833256
+- **LinkedIn**: https://linkedin.com/in/sai-sunny-kothuri-292833256
 - **GitHub**: https://github.com/saisunny07
-- **Resume Url**: github.com/saisunny07/Profile
+- **Resume Url**: https://github.com/saisunny07/Profile
 
 EDUCATION
 University of Louisiana at Lafayette                                                                           Jan 2023 – Dec 2024
