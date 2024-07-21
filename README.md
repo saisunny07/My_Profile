@@ -22,8 +22,8 @@ Master in Computer Science GPA: 4.0/4.0
 * Other Tools: SonarQube, Maven
 
 ## Github Repositories
-* saisunny07/Docker_Projects - This repository contains all my docker images
-* saisunny07/Synchronization_solutions - This repository contains all my Java projects
+* saisunny07/Docker_Projects - This repository contains all my Docker files.
+* saisunny07/Synchronization_solutions - This repository contains all my Java projects.
 
 ## PROJECTS
 01. AWS Cloud Cost Optimization.
