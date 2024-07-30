@@ -1,6 +1,6 @@
 # Resume and Profile Details
 
-Welcome to my repository! This repository providing an overview of my professional experience, skills, and achievements. Please also find my resume and detailed description of projects in the Project_details in seperate folders in the repository.
+Welcome to my repository! This repository provides an overview of my professional experience, projects, skills and achievements. Please also find my resume and detailed description of projects in the Project_details in seperate folders in the repository.
 
 # Profile_Details
 Aspiring DevOps and Cloud professional with expertise in cloud technologies(AWS & Azure) with extensive experience in implementing and managing scalable, reliable, and secure cloud infrastructure. Proficient in AWS, Azure, Kubernetes, Terraform, Ansible, Git, Docker, Python, Java, Linux, and Shell scripting. Strong background in automating and optimizing mission-critical deployments, leveraging configuration management, CI/CD pipelines, and DevOps processes. Demonstrated ability to collaborate effectively with cross-functional teams to deliver high-quality solutions. I am passionate about bridging the gap between development and operations to create streamlined, efficient, and scalable solutions. I am dedicated to solving complex problems, improving deployment processes, and fostering a culture of collaboration and continuous improvement. Let's connect to discuss how we can drive the future of DevOps and cloud computing forward together.
