@@ -1,4 +1,8 @@
-# Profile Details
+# Resume and Profile Details
+
+Welcome to my repository! This repository providing an overview of my professional experience, skills, and achievements. Please also find my resume and detailed description of projects in the Project_details in seperate folders in the repository.
+
+# Profile_Details
 Aspiring DevOps and Cloud professional with expertise in cloud technologies(AWS & Azure) with extensive experience in implementing and managing scalable, reliable, and secure cloud infrastructure. Proficient in AWS, Azure, Kubernetes, Terraform, Ansible, Git, Docker, Python, Java, Linux, and Shell scripting. Strong background in automating and optimizing mission-critical deployments, leveraging configuration management, CI/CD pipelines, and DevOps processes. Demonstrated ability to collaborate effectively with cross-functional teams to deliver high-quality solutions. I am passionate about bridging the gap between development and operations to create streamlined, efficient, and scalable solutions. I am dedicated to solving complex problems, improving deployment processes, and fostering a culture of collaboration and continuous improvement. Let's connect to discuss how we can drive the future of DevOps and cloud computing forward together.
 
 ## Contact
@@ -6,7 +10,6 @@ Aspiring DevOps and Cloud professional with expertise in cloud technologies(AWS 
  - **Email**: kothurisaisunny5@gmail.com
  - **LinkedIn**: https://linkedin.com/in/sai-sunny-kothuri-292833256
  - **GitHub**: https://github.com/saisunny07
- - **Resume Url**: https://github.com/saisunny07/Profile
 
 ## EDUCATION
 University of Louisiana at Lafayette                                                                           Jan 2023 – Dec 2024
@@ -41,3 +44,13 @@ Master in Computer Science GPA: 4.0/4.0
 13. Implementing solution to Dining Philosophers synchronization problem in Java using multi-threading.
 14. Implementing solution to Readers-Writer synchronization problem in Java using multi-threading.
 15. Implementing post office simulation in Java in multi-threading using semaphores.
+
+
+## Contents
+
+- **Resume**: A detailed document outlining my education, work experience and skills.
+- **Project_Details**: Additional information about my projects.
+
+Feel free to explore the files in this repository to get to know more about my background and qualifications. For any inquiries or further information, please contact me at kothurisaisunny5@gmail.com
+
+Thank you for visiting my repository!
