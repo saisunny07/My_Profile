@@ -17,11 +17,16 @@ Master in Computer Science GPA: 4.0/4.0
 * Relevant Courses: Distributed Cloud Computing, Network Security, Operating Systems, Database Management Systems, Design and Analysis of Algorithms.
 
 ## SKILLS
-* Cloud Platforms: AWS, Azure                            *   Database Management: SQL
-* Containerization & Orchestration: Docker, Kubernetes Programming Languages: Python, Java
-* Infrastructure as Code: Terraform, Ansible Scripting: Shell scripting
-* Version Control: Git, AWS codecommit CI/CD: Jenkins, GitHub Actions
-* Monitoring & Logging: Prometheus, Grafana Operating Systems: Linux, Windows
+* Cloud Platforms: AWS, Azure
+* Containerization & Orchestration: Docker, Kubernetes
+* Infrastructure as Code: Terraform, Ansible
+* Programming Languages: Python, Java
+* Scripting: Shell scripting
+* Version Control: Git, AWS codecommit
+* CI/CD: Jenkins, GitHub Actions
+* Monitoring & Logging: Prometheus, Grafana
+* Database Management: SQL
+* Operating Systems: Linux, Windows
 * Other Tools: SonarQube, Maven
 
 ## Github Repositories
