@@ -3,7 +3,8 @@
 Welcome to my repository! This repository provides an overview of my professional experience, projects, skills and achievements. You can also find my resume in Resume folder and detailed description of projects in the Project_details in folder of the repository.
 
 # Profile_Details
-Aspiring DevOps and Cloud professional with expertise in cloud technologies(AWS & Azure) with extensive experience in implementing and managing scalable, reliable, and secure cloud infrastructure. Proficient in AWS, Azure, Kubernetes, Terraform, Ansible, Git, Docker, Python, Java, Linux, and Shell scripting. Strong background in automating and optimizing mission-critical deployments, leveraging configuration management, CI/CD pipelines, and DevOps processes. Demonstrated ability to collaborate effectively with cross-functional teams to deliver high-quality solutions. I am passionate about bridging the gap between development and operations to create streamlined, efficient, and scalable solutions. I am dedicated to solving complex problems, improving deployment processes, and fostering a culture of collaboration and continuous improvement. Let's connect to discuss how we can drive the future of DevOps and cloud computing forward together.
+As an aspiring Java Developer with a strong foundation in cloud technologies(AWS & Azure) with extensive experience in implementing and managing scalable, reliable, and secure cloud infrastructure. Proficient in AWS, Azure, Kubernetes, Terraform, Ansible, Git, Docker, Python, Java, Linux, and Shell scripting as well as machine learning and deep learning. Strong background in automating and optimizing mission-critical deployments, leveraging configuration management, CI/CD pipelines, and DevOps processes. Demonstrated ability to collaborate effectively with cross-functional teams to deliver high-quality solutions. I am passionate about bridging the gap between development and operations to create streamlined, efficient, and scalable solutions. I am dedicated to solving complex problems, improving deployment processes, and fostering a culture of collaboration and continuous improvement. Let’s connect to explore how we can advance Java development, cloud computing, DevOps, and machine learning and deep learning together.
+
 
 ## Contact
 
@@ -14,13 +15,13 @@ Aspiring DevOps and Cloud professional with expertise in cloud technologies(AWS 
 ## EDUCATION
 University of Louisiana at Lafayette                                                                           Jan 2023 – Dec 2024
 Master in Computer Science GPA: 4.0/4.0
-* Relevant Courses: Distributed Cloud Computing, Network Security, Operating Systems, Database Management Systems, Design and Analysis of Algorithms.
+* Relevant Courses: Distributed Cloud Computing, Network Security, Operating Systems, Database Management Systems, Design and Analysis of Algorithms, Principles of Computer Communication & Network, Principles of Programing Languages.
 
 ## SKILLS
+* Programming Languages: Java, Python
 * Cloud Platforms: AWS, Azure
 * Containerization & Orchestration: Docker, Kubernetes
 * Infrastructure as Code: Terraform, Ansible
-* Programming Languages: Python, Java
 * Scripting: Shell scripting
 * Version Control: Git, AWS codecommit
 * CI/CD: Jenkins, GitHub Actions
